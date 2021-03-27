@@ -1,0 +1,13 @@
+server:
+  port: 9000
+
+spring:
+  devtools:
+    livereload:
+      enabled: true
+    restart:
+      enabled: true
+      additional-paths: /src
+
+
+      
