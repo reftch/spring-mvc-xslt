@@ -1,4 +1,4 @@
-package com.compart.spring.xslt;
+package com.chornyi.spring.xslt;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

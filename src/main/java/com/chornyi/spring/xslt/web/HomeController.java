@@ -1,4 +1,4 @@
-package com.compart.spring.xslt.web;
+package com.chornyi.spring.xslt.web;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.core.io.Resource;

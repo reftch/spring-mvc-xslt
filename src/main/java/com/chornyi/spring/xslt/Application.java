@@ -1,4 +1,4 @@
-package com.compart.spring.xslt;
+package com.chornyi.spring.xslt;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

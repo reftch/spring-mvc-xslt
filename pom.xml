@@ -8,7 +8,7 @@
 		<version>2.1.1.RELEASE</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.compart.xslt</groupId>
+	<groupId>com.chornyi.xslt</groupId>
 	<artifactId>spring-mvc-xslt</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>spring-mvc-xslt</name>
